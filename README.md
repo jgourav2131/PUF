@@ -33,4 +33,6 @@ Our approach utilized hard thresholding to maintain the model's sparsity constra
 
 ## Conclusion
 
-The Sparse PUF solver developed successfully predicts the PUF's responses to unseen challenges with high accuracy, as evidenced by the low MAE. However, the model's accuracy in identifying the active CDUs and the relatively high model error suggests that further refinement is needed to improve the understanding of the active CDUs' contributions. The methodology and results presented here provide a solid foundation for further research and optimization in PUF modeling and security applications.
+The Sparse PUF solver developed successfully predicts the PUF's responses to unseen challenges with high accuracy, as evidenced by the low MAE. However, the model's accuracy in identifying the active CDUs and the relatively high model error suggest that further refinement is needed to improve the understanding of the active CDUs' contributions. The methodology and results presented here provide a solid foundation for further research and optimization in PUF modeling and security applications.
+
+##Please refer to the assn1.pdf for details on the problem and Notebook.ipynb for the solution
